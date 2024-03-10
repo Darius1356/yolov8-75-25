@@ -219,7 +219,6 @@
 ./images/6_0_2400.png
 ./images/6_0_3600.png
 ./images/6_1200_0.png
-./images/6_1200_1200.png
 ./images/6_1200_2400.png
 ./images/6_1200_3600.png
 ./images/6_2400_0.png
